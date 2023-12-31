@@ -2,16 +2,12 @@
 
 This repository contains the code for a responsive food delivery website. The entire interface has been crafted using HTML and pure CSS, showcasing a lightweight and straightforward implementation.
 
-## Sections
+## Sections -:
 
 ### Home
-
 ### Services
-
 ### Our Clients
-
 ### Contact Us
-
 ### Navbar
 
 The navigation bar (navbar) is intelligently designed to facilitate seamless navigation between different sections of the website, ensuring a user-friendly experience.
